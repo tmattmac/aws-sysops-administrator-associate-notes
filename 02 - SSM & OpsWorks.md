@@ -43,4 +43,3 @@
 ## OpsWorks
 * Managed Chef and Puppet
 * Configuration as code (similar to SSM)
-* 
